@@ -1,0 +1,9 @@
+com\eval\adcampaign\webservice\AdCampaignWebService.class
+com\eval\adcampaign\dao\AdCampaignDAO.class
+com\eval\adcampaign\utils\CommonUtils.class
+com\eval\adcampaign\webservice\AdCampaignWebServiceClient.class
+com\eval\adcampaign\persistence\AdCampaignInMemoryFile.class
+com\eval\adcampaign\service\AdCampaignService.class
+com\eval\adcampaign\webservice\SpringConfigurationForWebservices.class
+com\eval\adcampaign\to\AdCampaign.class
+com\eval\adcampaign\dao\AdCampaignDAOImpl.class

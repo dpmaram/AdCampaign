@@ -1,0 +1,3 @@
+com\eval\adcampaign\persistence\AdCampaignInMemoryFileTest.class
+com\eval\adcampaign\service\AdCampaignServiceTest.class
+com\eval\adcampaign\webservice\AdCampaignWebServiceTest.class
